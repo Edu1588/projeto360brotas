@@ -1,0 +1,6 @@
+{
+  "name": "Brotas 360",
+  "description": "Sistema de portal e intranet para a Prefeitura de Brotas, integrando secretarias, blog da cidade e extração de novidades para o Instagram.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
